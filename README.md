@@ -22,3 +22,10 @@ git clone https://github.com/ABIRHOSSAIN10/BD-SMS-BOOMBER
 cd BD-SMS-BOOMBER
 
 python SMS-BLAST.py
+
+User/pass: inbox me on my page
+
+
+1 sms == 21 sms
+
+So be carefull
