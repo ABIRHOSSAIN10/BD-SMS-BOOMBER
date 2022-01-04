@@ -26,6 +26,6 @@ python SMS-BLAST.py
 User/pass: inbox me on my page
 
 
-1 sms == 21 sms
+1 sms == 120 sms
 
 So be carefull
